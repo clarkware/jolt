@@ -1,0 +1,2 @@
+defmodule Jolt do
+end

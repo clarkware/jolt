@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Flatscreen LCD TV",
+      "price": 159.0,
+      "condition": "New"
+    },
+    {
+      "id": 2,
+      "name": "Bamboo Flyrod",
+      "price": 49.0,
+      "condition": "Good"
+    },
+    {
+      "id": 3,
+      "name": "Unicycle",
+      "price": 99.0,
+      "condition": "Excellent"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "Shovel snow",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "phrase": "Rake leaves",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "phrase": "Mow lawn",
+      "completed": false
+    }
+  ]
+}
