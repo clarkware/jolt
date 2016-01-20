@@ -1,4 +1,6 @@
 # Jolt
+[![hex version](https://img.shields.io/hexpm/v/jolt.svg)](https://hex.pm/packages/jolt)
+
 
 Need to quickly stand up a back-end JSON API for prototyping or educational purposes? Jolt gives you a full REST API with __zero coding__, powered by Elixir.
 
