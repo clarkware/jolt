@@ -5,15 +5,15 @@ defmodule Jolt.Mixfile do
     [
       app: :jolt,
       name: "Jolt",
-      escript: escript_config,
+      escript: escript_config(),
       version: "0.1.0",
       elixir: "~> 1.2",
       build_embedded: Mix.env == :prod,
       start_permanent: Mix.env == :prod,
-      deps: deps,
-      package: package,
+      deps: deps(),
+      package: package(),
       source_url: "https://github.com/clarkware/jolt",
-      description: description
+      description: description()
     ]
   end
 
